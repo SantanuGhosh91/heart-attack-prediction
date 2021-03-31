@@ -78,7 +78,7 @@ def main():
     st.success('Your Results {} '.format(result))
     st.markdown('1 - Diseased, 0 - Not Diseased')
     if st.button("About"):
-        st.markdown("Please find the Code using my [GitHub link] (https://github.com/adiotic98/Heart_attack_prediction-)")
+        st.markdown("Please find the Code using my [GitHub link] (https://github.com/SantanuGhosh91/heart-attack-prediction)")
     
     page_bg_img = '''
     <style>
